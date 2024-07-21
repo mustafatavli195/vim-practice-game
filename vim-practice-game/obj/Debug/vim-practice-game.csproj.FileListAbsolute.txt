@@ -1,0 +1,7 @@
+C:\Users\Mustafa Tavlı\source\repos\vim-practice-game\vim-practice-game\bin\Debug\vim-practice-game.exe.config
+C:\Users\Mustafa Tavlı\source\repos\vim-practice-game\vim-practice-game\bin\Debug\vim-practice-game.exe
+C:\Users\Mustafa Tavlı\source\repos\vim-practice-game\vim-practice-game\bin\Debug\vim-practice-game.pdb
+C:\Users\Mustafa Tavlı\source\repos\vim-practice-game\vim-practice-game\obj\Debug\vim-practice-game.csproj.AssemblyReference.cache
+C:\Users\Mustafa Tavlı\source\repos\vim-practice-game\vim-practice-game\obj\Debug\vim-practice-game.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa Tavlı\source\repos\vim-practice-game\vim-practice-game\obj\Debug\vim-practice-game.exe
+C:\Users\Mustafa Tavlı\source\repos\vim-practice-game\vim-practice-game\obj\Debug\vim-practice-game.pdb

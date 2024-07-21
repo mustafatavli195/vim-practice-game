@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vim-practice-game", "vim-practice-game\vim-practice-game.csproj", "{6E743793-0C4D-4006-AC8E-B3D7E3A30871}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E743793-0C4D-4006-AC8E-B3D7E3A30871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E743793-0C4D-4006-AC8E-B3D7E3A30871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E743793-0C4D-4006-AC8E-B3D7E3A30871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E743793-0C4D-4006-AC8E-B3D7E3A30871}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4960EBD-9A03-4152-9C3E-B1AF570B03A8}
+	EndGlobalSection
+EndGlobal

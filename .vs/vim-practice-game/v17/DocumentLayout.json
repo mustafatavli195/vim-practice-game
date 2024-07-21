@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mustafa Tavl\u0131\\source\\repos\\vim-practice-game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E743793-0C4D-4006-AC8E-B3D7E3A30871}|vim-practice-game\\vim-practice-game.csproj|c:\\users\\mustafa tavl\u0131\\source\\repos\\vim-practice-game\\vim-practice-game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E743793-0C4D-4006-AC8E-B3D7E3A30871}|vim-practice-game\\vim-practice-game.csproj|solutionrelative:vim-practice-game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mustafa Tavl\u0131\\source\\repos\\vim-practice-game\\vim-practice-game\\Program.cs",
+              "RelativeDocumentMoniker": "vim-practice-game\\Program.cs",
+              "ToolTip": "C:\\Users\\Mustafa Tavl\u0131\\source\\repos\\vim-practice-game\\vim-practice-game\\Program.cs",
+              "RelativeToolTip": "vim-practice-game\\Program.cs",
+              "ViewState": "AQIAAK0AAAAAAAAAAAAAwMcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:29:15.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
